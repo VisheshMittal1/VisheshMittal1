@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Vishesh
-**A passionate Cloud Engineer || DevOps Engineer**
+**Aspiring Software Developer | Front-End & Java Enthusiast**
 
-Email Me 👉 ✉️ **vishumittal1207@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vishumittal1207@gmail.com**
 
 - 🔭 **I’m currently working on:** Video Call
 - 🌱 **I’m currently learning:** Full stack developer
