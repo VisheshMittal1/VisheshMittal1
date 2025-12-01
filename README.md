@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **vishumittal1207@gmail.com**
 
-- 🔭 **I’m currently working on:** Video Call
-- 🌱 **I’m currently learning:** Full stack developer
+- 🔭 **I’m currently working on:** Video Call With Live Chat
+- 🌱 **I’m currently learning:** MERN Stack
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** vishumittal1207@gmail.com
 - 😄 **Pronouns:** Vishesh
