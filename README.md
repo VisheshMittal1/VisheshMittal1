@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vishesh
-**Aspiring Software Developer | Front-End & Java Enthusiast**
+**Aspiring Software Developer | MERN Stack & Java Enthusiast**
 
 Email Me 👉 ✉️ **vishumittal1207@gmail.com**
 
