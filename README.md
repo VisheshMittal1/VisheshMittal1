@@ -1,14 +1,56 @@
-# 💫 Hi 👋, I'm Vishesh
-**Aspiring Software Developer | MERN Stack & Java Enthusiast**
+👋 Hi 👋, I'm Vishesh
 
-Email Me 👉 ✉️ **vishumittal1207@gmail.com**
+Aspiring Software Developer | DevOps & Cloud Enthusiast | MERN Stack & Java
 
-- 🔭 **I’m currently working on:** Video Call With Live Chat
-- 🌱 **I’m currently learning:** MERN Stack
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** vishumittal1207@gmail.com
-- 😄 **Pronouns:** Vishesh
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+📩 Email Me 👉 vishumittal1207@gmail.com  
+
+- 🔭 I’m currently working on: **Video Call Application with Live Chat using WebRTC**
+- 🌱 I’m currently learning: **DevOps, Docker, CI/CD Pipelines, and MERN Stack**
+- ⚙️ Interested in: **Cloud Infrastructure, Deployment Automation, and Scalable Systems**
+- 💬 Ask me about: **Java, MERN Stack, Git, Docker, REST APIs**
+- 📫 How to reach me: **vishumittal1207@gmail.com**
+- 😄 Pronouns: **Vishesh**
+- ⚡ Fun fact: **I enjoy building systems and automating workflows**
+
+---
+
+### 🚀 Tech Stack
+
+**Programming**
+- Java
+- JavaScript
+- Python
+- C++
+
+**Frontend**
+- React.js
+- HTML
+- CSS
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+
+**DevOps & Cloud**
+- Docker
+- Git & GitHub
+- CI/CD
+- GitHub Actions
+- Linux
+- AWS (EC2, S3)
+
+**Databases**
+- MySQL
+- MongoDB
+- SQLite
+
+---
+
+### 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/vishesh-mittal-1708302ab/
+- GitHub: https://github.com/VisheshMittal1
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vishesh__.1/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-mittal-1708302ab/) 
