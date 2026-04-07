@@ -1,51 +1,17 @@
 👋 Hi 👋, I'm Vishesh
 
-Aspiring Software Developer | DevOps & Cloud Enthusiast | MERN Stack & Java 
+QA Engineer | Manual & API Testing | SQL | JIRA | Postman | Test Case Design | Bug Tracking
 
-📩 Email Me 👉 vishumittal1207@gmail.com  
+📩 Email Me 👉 vishumittal1207@gmail.com
 
-- 🔭 I’m currently working on: **Video Call Application with Live Chat using WebRTC**
-- 🌱 I’m currently learning: **DevOps, Docker, CI/CD Pipelines, and MERN Stack**
-- ⚙️ Interested in: **Cloud Infrastructure, Deployment Automation, and Scalable Systems**
-- 💬 Ask me about: **Java, MERN Stack, Git, Docker, REST APIs**
-- 📫 How to reach me: **vishumittal1207@gmail.com**
-- 😄 Pronouns: **Vishesh**
-- ⚡ Fun fact: **I enjoy building systems and automating workflows**
+🔭 I’m currently working on: Writing and executing test cases for web applications
+🌱 I’m currently learning: API Testing, SQL, and Basic Automation Testing
+⚙️ Interested in: Software Testing, Quality Assurance, and Test Automation
+💬 Ask me about: Test Cases, Bug Reports, API Testing, SQL, JIRA
+📫 How to reach me: vishumittal1207@gmail.com
 
----
-
-### 🚀 Tech Stack
-
-**Programming**
-- Java
-- JavaScript
-- Python
-- C++
-
-**Frontend**
-- React.js
-- HTML
-- CSS
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-
-**DevOps & Cloud**
-- Docker
-- Git & GitHub
-- CI/CD
-- GitHub Actions
-- Linux
-- AWS (EC2, S3)
-
-**Databases**
-- MySQL
-- MongoDB
-- SQLite
-
----
+😄 Pronouns: Vishesh
+⚡ Fun fact: I like identifying edge cases and improving user experience through testing
 
 ### 🌐 Connect With Me
 
