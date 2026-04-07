@@ -4,14 +4,14 @@ QA Engineer | Manual & API Testing | SQL | JIRA | Postman | Test Case Design | B
 
 📩 Email Me 👉 vishumittal1207@gmail.com
 
-🔭 I’m currently working on: Writing and executing test cases for web applications
-🌱 I’m currently learning: API Testing, SQL, and Basic Automation Testing
-⚙️ Interested in: Software Testing, Quality Assurance, and Test Automation
-💬 Ask me about: Test Cases, Bug Reports, API Testing, SQL, JIRA
-📫 How to reach me: vishumittal1207@gmail.com
+🔭 I’m currently working on: Writing and executing test cases for web applications  
+🌱 I’m currently learning: API Testing, SQL, and Basic Automation Testing  
+⚙️ Interested in: Software Testing, Quality Assurance, and Test Automation  
+💬 Ask me about: Test Cases, Bug Reports, API Testing, SQL, JIRA  
+📫 How to reach me: vishumittal1207@gmail.com  
 
-😄 Pronouns: Vishesh
-⚡ Fun fact: I like identifying edge cases and improving user experience through testing
+😄 Pronouns: Vishesh  
+⚡ Fun fact: I like identifying edge cases and improving user experience through testing  
 
 ### 🌐 Connect With Me
 
