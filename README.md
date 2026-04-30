@@ -1,22 +1,26 @@
 👋 Hi 👋, I'm Vishesh
 
-QA Engineer | Manual & API Testing | SQL | JIRA | Postman | Test Case Design | Bug Tracking
+Aspiring Software Engineer | Full Stack Developer | DSA | Java | React | Node.js | SQL | B.E CSE ’26
 
 📩 Email Me 👉 vishumittal1207@gmail.com
 
-🔭 I’m currently working on: Writing and executing test cases for web applications  
-🌱 I’m currently learning: API Testing, SQL, and Basic Automation Testing  
-⚙️ Interested in: Software Testing, Quality Assurance, and Test Automation  
-💬 Ask me about: Test Cases, Bug Reports, API Testing, SQL, JIRA  
-📫 How to reach me: vishumittal1207@gmail.com  
+🔭 I’m currently working on: Building full stack web applications and improving my problem-solving skills (DSA)
 
-😄 Pronouns: Vishesh  
-⚡ Fun fact: I like identifying edge cases and improving user experience through testing  
+🌱 I’m currently learning: Advanced Data Structures, Backend Development (Node.js), and System Design basics
 
-### 🌐 Connect With Me
+⚙️ Interested in: Full Stack Development, Scalable Systems, and Real-world Application Development
 
-- LinkedIn: https://www.linkedin.com/in/vishesh-mittal-1708302ab/
-- GitHub: https://github.com/VisheshMittal1
+💬 Ask me about: Java, DSA, React, Node.js, SQL, and Web Development
+
+📫 How to reach me: vishumittal1207@gmail.com
+
+😄 Pronouns: Vishesh
+
+⚡ Fun fact: I enjoy solving coding problems and building real-world applications from scratch
+
+🌐 Connect With Me
+LinkedIn: https://www.linkedin.com/in/vishesh-mittal-1708302ab/
+GitHub: https://github.com/VisheshMittal1
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vishesh__.1/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-mittal-1708302ab/) 
